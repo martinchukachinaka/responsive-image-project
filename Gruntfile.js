@@ -16,14 +16,14 @@ module.exports = function (grunt) {
           sizes: [{
             name: "medium",
             width: 800,
-            quality: 85
+            quality: 30
           }
-          // , {
-          //   name: "large",
-          //   width: 1024,
-          //   suffix: "_x2",
-          //   quality: 60
-          // }
+          , {
+            name: "large",
+            width: 1600,
+            suffix: "_2x",
+            quality: 30
+          }
         ]
           // sizes: [{
           //   /*

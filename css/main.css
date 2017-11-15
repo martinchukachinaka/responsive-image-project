@@ -25,14 +25,16 @@ article {
   margin: 0 auto;
 }
 
-h1 {
+h1 {}
 
+figure {
+  margin: 0;
 }
 
 img {
   width: 100%;
 }
 
-img.smiley{
+img.smiley {
   width: 1.5rem;
 }
